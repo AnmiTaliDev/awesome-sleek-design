@@ -1,236 +1,235 @@
 # Awesome Sleek Design ✨
 
-Полная коллекция Human Interface Guidelines, Design Systems, фреймворков и инструментов для дизайнеров и разработчиков, которые хотят создавать чистые, минималистичные и изысканные пользовательские интерфейсы.
+A comprehensive collection of Human Interface Guidelines, Design Systems, frameworks, and tools for designers and developers who want to create clean, minimalistic, and sophisticated user interfaces.
 
-## Содержание
+## Table of Contents
 
-- [Инструменты для дизайна](#инструменты-для-дизайна)
+- [Design Tools](#design-tools)
 - [Web](#web)
 - [Desktop](#desktop)
 
-## Инструменты для дизайна
+## Design Tools
 
 ### Human Interface Guidelines
-- **[Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)** - Комплексные гайдлайны от Apple для iOS, macOS, watchOS, tvOS (до Liquid Glass design)
-- **[Google Material Design 3](https://m3.material.io/)** - Новейшая версия Material Design с динамическими цветами и улучшенной доступностью
-- **[Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/)** - Система дизайна Microsoft с фокусом на свет, глубину, движение, материал и масштаб
-- **[Samsung One UI Design Guidelines](https://developer.samsung.com/one-ui)** - Принципы дизайна Samsung One UI
+- **[Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)** - Comprehensive guidelines from Apple for iOS, macOS, watchOS, tvOS (up to Liquid Glass design)
+- **[Google Material Design 3](https://m3.material.io/)** - Latest version of Material Design with dynamic colors and improved accessibility
+- **[Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/)** - Microsoft's design system focusing on light, depth, motion, material, and scale
+- **[Samsung One UI Design Guidelines](https://developer.samsung.com/one-ui)** - Samsung One UI design principles
 
 ### Web & Desktop HIG
-- **[Windows 11 Design Principles](https://docs.microsoft.com/en-us/windows/apps/design/)** - Принципы дизайна для Windows 11 приложений
-- **[macOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos)** - Специфичные гайдлайны для macOS
-- **[GNOME Human Interface Guidelines](https://developer.gnome.org/hig/)** - HIG для GNOME Desktop Environment
-- **[KDE Human Interface Guidelines](https://develop.kde.org/hig/)** - Принципы дизайна для KDE Plasma
+- **[Windows 11 Design Principles](https://docs.microsoft.com/en-us/windows/apps/design/)** - Design principles for Windows 11 applications
+- **[macOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos)** - Specific guidelines for macOS
+- **[GNOME Human Interface Guidelines](https://developer.gnome.org/hig/)** - HIG for GNOME Desktop Environment
+- **[KDE Human Interface Guidelines](https://develop.kde.org/hig/)** - Design principles for KDE Plasma
 
-### Типографика
+### Typography
 
-#### Бесплатные шрифтовые библиотеки
-- **[Google Fonts](https://fonts.google.com/)** - Бесплатные веб-шрифты, оптимизированные для интернета (Open Font License)
-- **[Fontshare](https://www.fontshare.com/)** - Бесплатные шрифты от Indian Type Foundry
-- **[Bunny Fonts](https://fonts.bunny.net/)** - GDPR-совместимая альтернатива Google Fonts
+#### Free Font Libraries
+- **[Google Fonts](https://fonts.google.com/)** - Free web fonts optimized for the web (Open Font License)
+- **[Fontshare](https://www.fontshare.com/)** - Free fonts from Indian Type Foundry
+- **[Bunny Fonts](https://fonts.bunny.net/)** - GDPR-compliant alternative to Google Fonts
 
-#### Open Source типографические инструменты
-- **[Modular Scale](https://www.modularscale.com/)** - Расчет пропорциональных типографических шкал
-- **[Fontjoy](https://fontjoy.com/)** - Генератор шрифтовых пар с машинным обучением
-- **[Fontopia](https://taliildar.anmitali.kz/Fontopia)** - Просмотрщик шрифтов для дизайнеров (Open Source)
+#### Open Source Typographic Tools
+- **[Modular Scale](https://www.modularscale.com/)** - Calculate proportional typographic scales
+- **[Fontjoy](https://fontjoy.com/)** - Font pair generator with machine learning
+- **[Fontopia](https://taliildar.anmitali.kz/Fontopia)** - Font viewer for designers (Open Source)
 
-#### Open Source системные шрифты
-- **[Inter](https://rsms.me/inter/)** - Высоко читаемый шрифт, разработанный для компьютерных экранов (Open Font License)
-- **[Roboto](https://fonts.google.com/specimen/Roboto)** - Системный шрифт Android от Google (Apache License)
-- **[Fira Sans](https://mozilla.github.io/Fira/)** - Шрифт Mozilla Firefox OS (Open Font License)
-- **[Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)** - Первый open source шрифт от Adobe (Open Font License)
+#### Open Source System Fonts
+- **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
+- **[Roboto](https://fonts.google.com/specimen/Roboto)** - Android system font from Google (Apache License)
+- **[Fira Sans](https://mozilla.github.io/Fira/)** - Mozilla Firefox OS font (Open Font License)
+- **[Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)** - Adobe's first open source font (Open Font License)
 
-### Цветовые палитры
+### Color Palettes
 
-#### Open Source генераторы палитр
-- **[Coolors](https://coolors.co/)** - Быстрый генератор цветовых схем (частично open source)
-- **[Colormind](http://colormind.io/)** - ИИ-генератор цветовых палитр
+#### Open Source Palette Generators
+- **[Coolors](https://coolors.co/)** - Fast color scheme generator (partially open source)
+- **[Colormind](http://colormind.io/)** - AI-powered color palette generator
 
-#### Open Source готовые палитры
-- **[Flat UI Colors](https://flatuicolors.com/)** - Красивые плоские цвета для вашего проекта (MIT License)
-- **[Material Design Colors](https://materialui.co/colors/)** - Цветовая палитра Material Design (Apache License)
-- **[Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)** - Тщательно проработанная цветовая система (MIT License)
-- **[Open Color](https://yeun.github.io/open-color/)** - Цветовая схема, оптимизированная для UI (MIT License)
+#### Open Source Ready-Made Palettes
+- **[Flat UI Colors](https://flatuicolors.com/)** - Beautiful flat colors for your project (MIT License)
+- **[Material Design Colors](https://materialui.co/colors/)** - Material Design color palette (Apache License)
+- **[Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)** - Carefully crafted color system (MIT License)
+- **[Open Color](https://yeun.github.io/open-color/)** - Color scheme optimized for UI (MIT License)
 
-#### Open Source инструменты работы с цветом
-- **[Contrast Ratio](https://contrast-ratio.com/)** - Проверка контрастности цветов для доступности
-- **[Who Can Use](https://whocanuse.com/)** - Симулятор доступности цветов (открытый исходный код)
-- **[Accessible Colors](https://accessible-colors.com/)** - Генератор доступных цветовых комбинаций
+#### Open Source Color Tools
+- **[Contrast Ratio](https://contrast-ratio.com/)** - Check color contrast for accessibility
+- **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
+- **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
 
-### Иконки
+### Icons
 
-#### Open Source библиотеки иконок
-- **[Lucide](https://lucide.dev/)** - Красивые и последовательные иконки, созданные сообществом (ISC License)
-- **[Heroicons](https://heroicons.com/)** - Красивые рукотворные SVG иконки от команды Tailwind CSS (MIT License)
-- **[Feather Icons](https://feathericons.com/)** - Просто красивые open source иконки (MIT License)
-- **[Tabler Icons](https://tabler-icons.io/)** - 4000+ бесплатных SVG иконок (MIT License)
-- **[Phosphor Icons](https://phosphoricons.com/)** - Гибкое семейство иконок с множественными весами (MIT License)
-- **[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)** - Коллекция знакомых, дружелюбных и современных иконок от Microsoft (MIT License)
+#### Open Source Icon Libraries
+- **[Lucide](https://lucide.dev/)** - Beautiful & consistent icons made by the community (ISC License)
+- **[Heroicons](https://heroicons.com/)** - Beautiful hand-crafted SVG icons by the Tailwind CSS team (MIT License)
+- **[Feather Icons](https://feathericons.com/)** - Simply beautiful open source icons (MIT License)
+- **[Tabler Icons](https://tabler-icons.io/)** - 4000+ free SVG icons (MIT License)
+- **[Phosphor Icons](https://phosphoricons.com/)** - Flexible icon family with multiple weights (MIT License)
+- **[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)** - Collection of familiar, friendly and modern icons from Microsoft (MIT License)
 
-#### Специализированные open source иконки
-- **[Devicons](https://devicons.github.io/devicon/)** - Иконки языков программирования и инструментов (MIT License)
-- **[Remix Icon](https://remixicon.com/)** - Система нейтральных иконок для дизайнеров и разработчиков (Apache License)
-- **[Iconify](https://iconify.design/)** - Универсальная framework-agnostic библиотека иконок (MIT License)
+#### Specialized Open Source Icons
+- **[Devicons](https://devicons.github.io/devicon/)** - Programming language and tool icons (MIT License)
+- **[Remix Icon](https://remixicon.com/)** - Neutral icon system for designers and developers (Apache License)
+- **[Iconify](https://iconify.design/)** - Universal framework-agnostic icon library (MIT License)
 
-#### Community иконки
-- **[Octicons](https://primer.style/octicons/)** - Иконки GitHub Primer (MIT License)
-- **[Eva Icons](https://akveo.github.io/eva-icons/)** - Пакет из 480+ красивых Open Source иконок (MIT License)
-- **[Ionicons](https://ionic.io/ionicons)** - Премиум дизайн иконки для веба, iOS, Android и десктопа (MIT License)
-- **[Material Symbols](https://fonts.google.com/icons)** - Новейшие иконки от Google Material Design (Apache License)
+#### Community Icons
+- **[Octicons](https://primer.style/octicons/)** - GitHub Primer icons (MIT License)
+- **[Eva Icons](https://akveo.github.io/eva-icons/)** - Pack of 480+ beautiful Open Source icons (MIT License)
+- **[Ionicons](https://ionic.io/ionicons)** - Premium designed icons for web, iOS, Android, and desktop (MIT License)
+- **[Material Symbols](https://fonts.google.com/icons)** - Latest icons from Google Material Design (Apache License)
 
-### Open Source дизайн инструменты
-- **[Penpot](https://penpot.app/)** - Open source дизайн и прототипирование платформа (MPL License)
-- **[Akira](https://github.com/akiraux/Akira)** - Linux дизайн инструмент для UI/UX (GPL License)
-- **[Quant-UX](https://www.quant-ux.com/)** - Open source прототипирование и usability тестирование (GPL License)
+### Open Source Design Tools
+- **[Penpot](https://penpot.app/)** - Open source design and prototyping platform (MPL License)
+- **[Akira](https://github.com/akiraux/Akira)** - Linux design tool for UI/UX (GPL License)
+- **[Quant-UX](https://www.quant-ux.com/)** - Open source prototyping and usability testing (GPL License)
 
-### Open Source прототипирование
-- **[MockFlow](https://www.mockflow.com/)** - Wireframing и дизайн инструмент (частично open source)
+### Open Source Prototyping
+- **[MockFlow](https://www.mockflow.com/)** - Wireframing and design tool (partially open source)
 
 ### Design Systems
 
 #### Enterprise Design Systems
-- **[Atlassian Design System](https://atlassian.design/)** - Комплексная система с детализированными компонентами и паттернами
-- **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** - Enterprise-уровень система дизайна от Salesforce
-- **[Shopify Polaris](https://polaris.shopify.com/)** - Система дизайна Shopify для создания отличных торговых платформ
+- **[Atlassian Design System](https://atlassian.design/)** - Comprehensive system with detailed components and patterns
+- **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** - Enterprise-level design system from Salesforce
+- **[Shopify Polaris](https://polaris.shopify.com/)** - Shopify's design system for creating great commerce platforms
 
 #### Startup & Product Design Systems
-- **[Ant Design](https://ant.design/)** - Enterprise-класс язык дизайна и React компоненты
-- **[GitHub Primer](https://primer.style/)** - Система дизайна GitHub с CSS, React и Figma компонентами
+- **[Ant Design](https://ant.design/)** - Enterprise-class design language and React components
+- **[GitHub Primer](https://primer.style/)** - GitHub's design system with CSS, React, and Figma components
 
 #### Open Source Design Systems
-- **[Chakra UI](https://chakra-ui.com/)** - Модульная и доступная библиотека компонентов для React (MIT License)
-- **[Mantine](https://mantine.dev/)** - Полнофункциональная библиотека React компонентов с поддержкой темной темы (MIT License)
-- **[NextUI](https://nextui.org/)** - Красивая, быстрая и современная React UI библиотека (MIT License)
-- **[Semi Design](https://semi.design/)** - Система дизайна от Douyin (TikTok) (MIT License)
+- **[Chakra UI](https://chakra-ui.com/)** - Modular and accessible component library for React (MIT License)
+- **[Mantine](https://mantine.dev/)** - Full-featured React components library with dark theme support (MIT License)
+- **[NextUI](https://nextui.org/)** - Beautiful, fast and modern React UI library (MIT License)
+- **[Semi Design](https://semi.design/)** - Design system from Douyin (TikTok) (MIT License)
 
 ### CSS Frameworks
 
 #### Utility-First Frameworks (Open Source)
-- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS фреймворк для быстрой разработки UI (MIT License)
-- **[UnoCSS](https://github.com/unocss/unocss)** - Мгновенный atomic CSS движок по требованию (MIT License)
-- **[Windi CSS](https://windicss.org/)** - CSS фреймворк следующего поколения utility-first (MIT License)
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for rapid UI development (MIT License)
+- **[UnoCSS](https://github.com/unocss/unocss)** - Instant on-demand atomic CSS engine (MIT License)
+- **[Windi CSS](https://windicss.org/)** - Next generation utility-first CSS framework (MIT License)
 
 #### Component-Based Frameworks (Open Source)
-- **[Bootstrap 5](https://getbootstrap.com/)** - Самый популярный фреймворк в мире с современными утилитами (MIT License)
-- **[Foundation](https://get.foundation/)** - Продвинутый responsive front-end фреймворк (MIT License)
+- **[Bootstrap 5](https://getbootstrap.com/)** - World's most popular framework with modern utilities (MIT License)
+- **[Foundation](https://get.foundation/)** - Advanced responsive front-end framework (MIT License)
 
 #### Modern CSS Solutions (Open Source)
-- **[Open Props](https://open-props.style/)** - CSS кастомные свойства для ускорения дизайна (MIT License)
-- **[Pico.css](https://picocss.com/)** - Минимальный CSS фреймворк для семантичного HTML (MIT License)
+- **[Open Props](https://open-props.style/)** - CSS custom properties to accelerate design (MIT License)
+- **[Pico.css](https://picocss.com/)** - Minimal CSS framework for semantic HTML (MIT License)
 
 ### UI Frameworks
 
 #### React Frameworks (Open Source)
-- **[Next.js](https://nextjs.org/)** - Production-ready React фреймворк с SSR/SSG (MIT License)
-- **[Gatsby](https://www.gatsbyjs.com/)** - Статический сайт генератор на React (MIT License)
-- **[Remix](https://remix.run/)** - Full-stack web фреймворк с фокусом на UX (MIT License)
+- **[Next.js](https://nextjs.org/)** - Production-ready React framework with SSR/SSG (MIT License)
+- **[Gatsby](https://www.gatsbyjs.com/)** - Static site generator on React (MIT License)
+- **[Remix](https://remix.run/)** - Full-stack web framework focused on UX (MIT License)
 
 #### Vue Frameworks (Open Source)
-- **[Nuxt.js](https://nuxt.com/)** - Интуитивно понятный Vue фреймворк (MIT License)
+- **[Nuxt.js](https://nuxt.com/)** - Intuitive Vue framework (MIT License)
 
 #### Universal Frameworks (Open Source)
-- **[Svelte/SvelteKit](https://kit.svelte.dev/)** - Кибернетически улучшенные web приложения (MIT License)
-- **[Astro](https://astro.build/)** - Статический сайт генератор для современного web (MIT License)
+- **[Svelte/SvelteKit](https://kit.svelte.dev/)** - Cybernetically enhanced web applications (MIT License)
+- **[Astro](https://astro.build/)** - Static site generator for the modern web (MIT License)
 
 ### Component Libraries
 
 #### React Component Libraries
-- **[Material-UI (MUI)](https://mui.com/)** - React UI библиотека, реализующая Google Material Design
-- **[React Bootstrap](https://react-bootstrap.github.io/)** - Bootstrap компоненты для React
-- **[Semantic UI React](https://react.semantic-ui.com/)** - React интеграция для Semantic UI
-- **[Grommet](https://v2.grommet.io/)** - React-based фреймворк с чистым и приятным дизайном
+- **[Material-UI (MUI)](https://mui.com/)** - React UI library implementing Google Material Design
+- **[React Bootstrap](https://react-bootstrap.github.io/)** - Bootstrap components for React
+- **[Semantic UI React](https://react.semantic-ui.com/)** - React integration for Semantic UI
+- **[Grommet](https://v2.grommet.io/)** - React-based framework with clean and pleasant design
 
 #### Vue Component Libraries
-- **[Vuetify](https://vuetifyjs.com/)** - Material Design компоненты для Vue.js
-- **[Element Plus](https://element-plus.org/)** - Vue 3 UI библиотека для desktop
-- **[Naive UI](https://www.naiveui.com/)** - Vue 3 компонентная библиотека с TypeScript
+- **[Vuetify](https://vuetifyjs.com/)** - Material Design components for Vue.js
+- **[Element Plus](https://element-plus.org/)** - Vue 3 UI library for desktop
+- **[Naive UI](https://www.naiveui.com/)** - Vue 3 component library with TypeScript
 
 #### Headless & Unstyled Libraries
-- **[Headless UI](https://headlessui.com/)** - Несtyled, доступные UI компоненты для React и Vue
-- **[Radix UI](https://www.radix-ui.com/)** - Низкоуровневые UI примитивы с фокусом на доступность
-- **[React Aria](https://react-spectrum.adobe.com/react-aria/)** - Библиотека React хуков для доступных компонентов от Adobe
-- **[Ariakit](https://ariakit.org/)** - Toolkit для создания доступных веб приложений с React
+- **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue
+- **[Radix UI](https://www.radix-ui.com/)** - Low-level UI primitives with accessibility focus
+- **[React Aria](https://react-spectrum.adobe.com/react-aria/)** - React hooks library for accessible components by Adobe
+- **[Ariakit](https://ariakit.org/)** - Toolkit for building accessible web applications with React
 
-### Анимации
+### Animations
 
-#### Open Source CSS библиотеки анимаций
-- **[Animate.css](https://animate.style/)** - Кроссбраузерная библиотека CSS анимаций (MIT License)
-- **[AOS](https://michalsnik.github.io/aos/)** - Библиотека анимации при прокрутке (MIT License)
-- **[Hover.css](https://ianlunn.github.io/Hover/)** - Коллекция CSS3 hover эффектов (MIT License)
-- **[Magic Animations](https://minimamente.com/project/magic/)** - CSS3 анимации со специальными эффектами (MIT License)
+#### Open Source CSS Animation Libraries
+- **[Animate.css](https://animate.style/)** - Cross-browser CSS animation library (MIT License)
+- **[AOS](https://michalsnik.github.io/aos/)** - Animate on scroll library (MIT License)
+- **[Hover.css](https://ianlunn.github.io/Hover/)** - Collection of CSS3 hover effects (MIT License)
+- **[Magic Animations](https://minimamente.com/project/magic/)** - CSS3 animations with special effects (MIT License)
 
-#### Open Source JavaScript библиотеки анимаций
-- **[Framer Motion](https://www.framer.com/motion/)** - Production-ready библиотека анимаций для React (MIT License)
-- **[Popmotion](https://popmotion.io/)** - Простая библиотека анимаций и жестов для JavaScript (MIT License)
+#### Open Source JavaScript Animation Libraries
+- **[Framer Motion](https://www.framer.com/motion/)** - Production-ready animation library for React (MIT License)
+- **[Popmotion](https://popmotion.io/)** - Simple animation and gesture library for JavaScript (MIT License)
 
-#### Open Source микро-взаимодействия
-- **[React Spring](https://react-spring.dev/)** - Spring-физика анимации для React (MIT License)
-- **[Auto-Animate](https://auto-animate.formkit.com/)** - Автоматические анимации одной строкой кода (MIT License)
-- **[Anime.js](https://animejs.com/)** - Легкая JavaScript библиотека анимаций (MIT License)
+#### Open Source Micro-interactions
+- **[React Spring](https://react-spring.dev/)** - Spring-physics animations for React (MIT License)
+- **[Auto-Animate](https://auto-animate.formkit.com/)** - Automatic animations with a single line of code (MIT License)
+- **[Anime.js](https://animejs.com/)** - Lightweight JavaScript animation library (MIT License)
 
-### Open Source инструменты разработки
-- **[Storybook](https://storybook.js.org/)** - Инструмент для создания UI компонентов изолированно (MIT License)
-- **[Bit](https://bit.dev/)** - Платформа для компонентного развития (Apache License)
+### Open Source Development Tools
+- **[Storybook](https://storybook.js.org/)** - Tool for building UI components in isolation (MIT License)
+- **[Bit](https://bit.dev/)** - Platform for component-driven development (Apache License)
 
-### Вдохновение
+### Inspiration
 
-#### Галереи дизайна
-- **[Dribbble](https://dribbble.com/)** - Дизайн сообщество, демонстрирующее креативную работу
-- **[Behance](https://www.behance.net/)** - Платформа креативных портфолио от Adobe
-- **[Awwwards](https://www.awwwards.com/)** - Награды за дизайн, креативность и инновации
-- **[SiteInspire](https://www.siteinspire.com/)** - Галерея вдохновения веб-дизайна
+#### Design Galleries
+- **[Dribbble](https://dribbble.com/)** - Design community showcasing creative work
+- **[Behance](https://www.behance.net/)** - Creative portfolio platform by Adobe
+- **[Awwwards](https://www.awwwards.com/)** - Awards for design, creativity and innovation
+- **[SiteInspire](https://www.siteinspire.com/)** - Web design inspiration gallery
 
-#### UI/UX вдохновение
-- **[Mobbin](https://mobbin.design/)** - Паттерны дизайна мобильных приложений и вдохновение
-- **[Page Flows](https://pageflows.com/)** - Вдохновение пользовательских потоков и лучшие практики
+#### UI/UX Inspiration
+- **[Mobbin](https://mobbin.design/)** - Mobile app design patterns and inspiration
+- **[Page Flows](https://pageflows.com/)** - User flow inspiration and best practices
 
-### Ресурсы
+### Resources
 
-#### Блоги и публикации
-- **[Smashing Magazine](https://www.smashingmagazine.com/)** - Журнал веб-дизайна и разработки
-- **[A List Apart](https://alistapart.com/)** - Веб-стандарты и лучшие практики
-- **[CSS-Tricks](https://css-tricks.com/)** - Советы, трюки и техники по CSS
-- **[UX Planet](https://uxplanet.org/)** - Публикация о дизайне пользовательского опыта
+#### Blogs and Publications
+- **[Smashing Magazine](https://www.smashingmagazine.com/)** - Web design and development magazine
+- **[A List Apart](https://alistapart.com/)** - Web standards and best practices
+- **[CSS-Tricks](https://css-tricks.com/)** - CSS tips, tricks, and techniques
+- **[UX Planet](https://uxplanet.org/)** - User experience design publication
 
-#### Гайдлайны и принципы
-- **[Laws of UX](https://lawsofux.com/)** - Коллекция лучших практик для дизайна пользовательского интерфейса
-- **[Design Better](https://www.designbetter.co/)** - Образовательная платформа по дизайну от InVision
-- **[Material Design Guidelines](https://material.io/design/)** - Философия и гайдлайны дизайна Google
+#### Guidelines and Principles
+- **[Laws of UX](https://lawsofux.com/)** - Collection of best practices for user interface design
+- **[Design Better](https://www.designbetter.co/)** - Design education platform by InVision
+- **[Material Design Guidelines](https://material.io/design/)** - Google's design philosophy and guidelines
 
-#### Доступность
-- **[Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/WCAG21/quickref/)** - Международный стандарт веб-доступности
-- **[A11y Project](https://www.a11yproject.com/)** - Сообщественная инициатива по упрощению доступности
+#### Accessibility
+- **[Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/WCAG21/quickref/)** - International web accessibility standard
+- **[A11y Project](https://www.a11yproject.com/)** - Community initiative to simplify accessibility
 
 ## Web
 
-### Хорошие веб-приложения
-- **[Maybe Finance](https://github.com/maybe-finance/maybe)** - Open source платформа для управления личными финансами с современным UI (AGPL License)
+### Good Web Applications
+- **[Maybe Finance](https://github.com/maybe-finance/maybe)** - Open source personal finance management platform with modern UI (AGPL License)
 
 ## Desktop
 
 ### Native Desktop Frameworks
-- **[GTK4](https://gtk.org/)** - Кроссплатформенный toolkit для создания графических пользовательских интерфейсов (LGPL License)
-- **[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)** - Библиотека виджетов для GNOME приложений с современным дизайном (LGPL License)
-- **[PasGTK4](https://github.com/AnmiTaliDev/pasgtk4)** - Библиотека Pascal для GTK4 LibAdwaita с современным дизайном (Open Source)
-- **[Qt Quick](https://doc.qt.io/qt-6/qtquick-index.html)** - Декларативный UI фреймворк для создания флюидных пользовательских интерфейсов (GPL/LGPL License)
-- **[Slint](https://github.com/slint-ui/slint)** - Современный GUI toolkit для Rust, C++ и JavaScript с декларативным подходом (GPL/Commercial License)
-- **[Avalonia](https://github.com/AvaloniaUI/Avalonia)** - Кроссплатформенный .NET UI фреймворк для создания красивых приложений (MIT License)
+- **[GTK4](https://gtk.org/)** - Cross-platform toolkit for creating graphical user interfaces (LGPL License)
+- **[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)** - Widget library for GNOME applications with modern design (LGPL License)
+- **[PasGTK4](https://github.com/AnmiTaliDev/pasgtk4)** - Pascal library for GTK4 LibAdwaita with modern design (Open Source)
+- **[Qt Quick](https://doc.qt.io/qt-6/qtquick-index.html)** - Declarative UI framework for creating fluid user interfaces (GPL/LGPL License)
+- **[Slint](https://github.com/slint-ui/slint)** - Modern GUI toolkit for Rust, C++ and JavaScript with declarative approach (GPL/Commercial License)
+- **[Avalonia](https://github.com/AvaloniaUI/Avalonia)** - Cross-platform .NET UI framework for creating beautiful applications (MIT License)
 
-### Хорошие приложения
-- **[Blender](https://www.blender.org/)** - 3D создание, анимация, рендеринг и постпродакшн (GPL License)
-- **[G4Music](https://gitlab.gnome.org/neithern/g4music)** - Элегантный музыкальный плеер с современным GTK4/LibAdwaita дизайном (GPL License)
-- **[Teleprompter](https://github.com/Nokse22/teleprompter)** - Простое приложение телесуфлера с чистым GTK4 интерфейсом (GPL License)
-- **[Eyedropper](https://github.com/FineFindus/eyedropper)** - Современная пипетка цветов для GTK4 (GPL License)
-- **[Palette](https://gitlab.gnome.org/World/design/palette)** - Генератор цветовых палитр с GTK4/LibAdwaita (GPL License)
-- **[DevToolbox](https://github.com/aleiepure/devtoolbox)** - Набор инструментов для разработчиков с современным GTK4 дизайном (GPL License)
-- **[Firefox](https://www.mozilla.org/firefox/)** - Веб-браузер с нативной интеграцией GTK и современным дизайном (MPL License)
-- **[Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes)** - Красивое приложение для заметок с минималистичным дизайном (GPL License)
-- **[Planify](https://github.com/alainm23/planify)** - Элегантный менеджер задач с современным GTK4/LibAdwaita интерфейсом (GPL License)
-- **[Newelle](https://github.com/qwersyk/Newelle)** - ИИ-ассистент с чистым GTK4 дизайном (GPL License)
+### Good Applications
+- **[Blender](https://www.blender.org/)** - 3D creation, animation, rendering and post-production (GPL License)
+- **[G4Music](https://gitlab.gnome.org/neithern/g4music)** - Elegant music player with modern GTK4/LibAdwaita design (GPL License)
+- **[Teleprompter](https://github.com/Nokse22/teleprompter)** - Simple teleprompter application with clean GTK4 interface (GPL License)
+- **[Eyedropper](https://github.com/FineFindus/eyedropper)** - Modern color picker for GTK4 (GPL License)
+- **[Palette](https://gitlab.gnome.org/World/design/palette)** - Color palette generator with GTK4/LibAdwaita (GPL License)
+- **[DevToolbox](https://github.com/aleiepure/devtoolbox)** - Developer tools suite with modern GTK4 design (GPL License)
+- **[Firefox](https://www.mozilla.org/firefox/)** - Web browser with native GTK integration and modern design (MPL License)
+- **[Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes)** - Beautiful note-taking application with minimalist design (GPL License)
+- **[Planify](https://github.com/alainm23/planify)** - Elegant task manager with modern GTK4/LibAdwaita interface (GPL License)
+- **[Newelle](https://github.com/qwersyk/Newelle)** - AI assistant with clean GTK4 design (GPL License)
 
-
-## Лицензия
+## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Насколько это возможно по закону, участники отказались от всех авторских прав и смежных или соседних прав на эту работу.
+To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
