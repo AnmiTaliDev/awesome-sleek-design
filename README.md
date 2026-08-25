@@ -24,17 +24,17 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 ### Typography
 
-#### Free Font Libraries
+#### Font Libraries
 - **[Google Fonts](https://fonts.google.com/)** - Free web fonts optimized for the web (Open Font License)
 - **[Fontshare](https://www.fontshare.com/)** - Free fonts from Indian Type Foundry
 - **[Bunny Fonts](https://fonts.bunny.net/)** - GDPR-compliant alternative to Google Fonts
 
-#### Open Source Typographic Tools
+#### Typographic Tools
 - **[Modular Scale](https://www.modularscale.com/)** - Calculate proportional typographic scales
 - **[Fontjoy](https://fontjoy.com/)** - Font pair generator with machine learning
 - **[Fontopia](https://taliildar.anmitali.kz/Fontopia)** - Font viewer for designers (Open Source)
 
-#### Open Source System Fonts
+#### System Fonts
 - **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
 - **[Roboto](https://fonts.google.com/specimen/Roboto)** - Android system font from Google (Apache License)
 - **[Fira Sans](https://mozilla.github.io/Fira/)** - Mozilla Firefox OS font (Open Font License)
@@ -42,16 +42,16 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 ### Color Palettes
 
-#### Open Source Palette Generators
+#### Palette Generators
 - **[iWantHue](https://medialab.github.io/iwanthue/)** - Colors for data scientists and palette generator (Open Source)
 
-#### Open Source Ready-Made Palettes
+#### Ready-Made Palettes
 - **[Flat UI Colors](https://flatuicolors.com/)** - Beautiful flat colors for your project (MIT License)
 - **[Material Design Colors](https://materialui.co/colors/)** - Material Design color palette (Apache License)
 - **[Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)** - Carefully crafted color system (MIT License)
 - **[Open Color](https://yeun.github.io/open-color/)** - Color scheme optimized for UI (MIT License)
 
-#### Open Source Color Tools
+#### Color Tools
 - **[Contrast Ratio](https://contrast-ratio.com/)** - Check color contrast for accessibility
 - **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
 - **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
@@ -62,7 +62,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 ### Icons
 
-#### Open Source Icon Libraries
+#### Icon Libraries
 - **[Lucide](https://lucide.dev/)** - Beautiful & consistent icons made by the community (ISC License)
 - **[Heroicons](https://heroicons.com/)** - Beautiful hand-crafted SVG icons by the Tailwind CSS team (MIT License)
 - **[Feather Icons](https://feathericons.com/)** - Simply beautiful open source icons (MIT License)
@@ -71,7 +71,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Solar Icons](https://github.com/480-Design/Solar-Icon-Set)** - Large set of modern icons in 6 distinct styles (CC BY 4.0 License)
 - **[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)** - Collection of familiar, friendly and modern icons from Microsoft (MIT License)
 
-#### Specialized Open Source Icons
+#### Specialized Icons
 - **[Devicons](https://devicons.github.io/devicon/)** - Programming language and tool icons (MIT License)
 - **[Remix Icon](https://remixicon.com/)** - Neutral icon system for designers and developers (Apache License)
 - **[Iconify](https://iconify.design/)** - Universal framework-agnostic icon library (MIT License)
@@ -83,12 +83,12 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Ionicons](https://ionic.io/ionicons)** - Premium designed icons for web, iOS, Android, and desktop (MIT License)
 - **[Material Symbols](https://fonts.google.com/icons)** - Latest icons from Google Material Design (Apache License)
 
-### Open Source Design Tools
+### Design Software
 - **[Penpot](https://penpot.app/)** - Open source design and prototyping platform (MPL License)
 - **[Akira](https://github.com/akiraux/Akira)** - Linux design tool for UI/UX (GPL License)
 - **[Quant-UX](https://www.quant-ux.com/)** - Open source prototyping and usability testing (GPL License)
 
-### Open Source Prototyping
+### Prototyping
 - **[Excalidraw](https://excalidraw.com/)** - Virtual whiteboard for sketching hand-drawn like diagrams and wireframes (MIT License)
 
 ### Design Systems
@@ -102,7 +102,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Ant Design](https://ant.design/)** - Enterprise-class design language and React components
 - **[GitHub Primer](https://primer.style/)** - GitHub's design system with CSS, React, and Figma components
 
-#### Open Source Design Systems
+#### UI Design Systems
 - **[Chakra UI](https://chakra-ui.com/)** - Modular and accessible component library for React (MIT License)
 - **[Mantine](https://mantine.dev/)** - Full-featured React components library with dark theme support (MIT License)
 - **[HeroUI](https://heroui.com/)** - Beautiful, fast and modern React UI library (MIT License)
@@ -110,30 +110,30 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 ### CSS Frameworks
 
-#### Utility-First Frameworks (Open Source)
+#### Utility-First Frameworks
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for rapid UI development (MIT License)
 - **[UnoCSS](https://github.com/unocss/unocss)** - Instant on-demand atomic CSS engine (MIT License)
 - **[Windi CSS](https://windicss.org/)** - Next generation utility-first CSS framework (MIT License)
 
-#### Component-Based Frameworks (Open Source)
+#### Component-Based Frameworks
 - **[Bootstrap 5](https://getbootstrap.com/)** - World's most popular framework with modern utilities (MIT License)
 - **[Foundation](https://get.foundation/)** - Advanced responsive front-end framework (MIT License)
 
-#### Modern CSS Solutions (Open Source)
+#### Modern CSS Solutions
 - **[Open Props](https://open-props.style/)** - CSS custom properties to accelerate design (MIT License)
 - **[Pico.css](https://picocss.com/)** - Minimal CSS framework for semantic HTML (MIT License)
 
 ### UI Frameworks
 
-#### React Frameworks (Open Source)
+#### React Frameworks
 - **[Next.js](https://nextjs.org/)** - Production-ready React framework with SSR/SSG (MIT License)
 - **[Gatsby](https://www.gatsbyjs.com/)** - Static site generator on React (MIT License)
 - **[Remix](https://remix.run/)** - Full-stack web framework focused on UX (MIT License)
 
-#### Vue Frameworks (Open Source)
+#### Vue Frameworks
 - **[Nuxt.js](https://nuxt.com/)** - Intuitive Vue framework (MIT License)
 
-#### Universal Frameworks (Open Source)
+#### Universal Frameworks
 - **[Svelte/SvelteKit](https://kit.svelte.dev/)** - Cybernetically enhanced web applications (MIT License)
 - **[Astro](https://astro.build/)** - Static site generator for the modern web (MIT License)
 
@@ -158,22 +158,22 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 ### Animations
 
-#### Open Source CSS Animation Libraries
+#### CSS Animation Libraries
 - **[Animate.css](https://animate.style/)** - Cross-browser CSS animation library (MIT License)
 - **[AOS](https://michalsnik.github.io/aos/)** - Animate on scroll library (MIT License)
 - **[Hover.css](https://ianlunn.github.io/Hover/)** - Collection of CSS3 hover effects (MIT License)
 - **[Magic Animations](https://minimamente.com/project/magic/)** - CSS3 animations with special effects (MIT License)
 
-#### Open Source JavaScript Animation Libraries
+#### JavaScript Animation Libraries
 - **[Framer Motion](https://www.framer.com/motion/)** - Production-ready animation library for React (MIT License)
 - **[Popmotion](https://popmotion.io/)** - Simple animation and gesture library for JavaScript (MIT License)
 
-#### Open Source Micro-interactions
+#### Micro-interactions
 - **[React Spring](https://react-spring.dev/)** - Spring-physics animations for React (MIT License)
 - **[Auto-Animate](https://auto-animate.formkit.com/)** - Automatic animations with a single line of code (MIT License)
 - **[Anime.js](https://animejs.com/)** - Lightweight JavaScript animation library (MIT License)
 
-### Open Source Development Tools
+### Development Tools
 - **[Storybook](https://storybook.js.org/)** - Tool for building UI components in isolation (MIT License)
 - **[Bit](https://bit.dev/)** - Platform for component-driven development (Apache License)
 
