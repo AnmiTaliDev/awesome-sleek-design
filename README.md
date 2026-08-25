@@ -43,7 +43,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Color Palettes
 
 #### Open Source Palette Generators
-- **[Coolors](https://coolors.co/)** - Fast color scheme generator (partially open source)
+- **[iWantHue](https://medialab.github.io/iwanthue/)** - Colors for data scientists and palette generator (Open Source)
 - **[Colormind](http://colormind.io/)** - AI-powered color palette generator
 
 #### Open Source Ready-Made Palettes
