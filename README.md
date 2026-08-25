@@ -105,7 +105,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 #### Open Source Design Systems
 - **[Chakra UI](https://chakra-ui.com/)** - Modular and accessible component library for React (MIT License)
 - **[Mantine](https://mantine.dev/)** - Full-featured React components library with dark theme support (MIT License)
-- **[NextUI](https://nextui.org/)** - Beautiful, fast and modern React UI library (MIT License)
+- **[HeroUI](https://heroui.com/)** - Beautiful, fast and modern React UI library (MIT License)
 - **[Semi Design](https://semi.design/)** - Design system from Douyin (TikTok) (MIT License)
 
 ### CSS Frameworks
