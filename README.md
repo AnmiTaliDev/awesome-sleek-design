@@ -239,7 +239,6 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Native Desktop Frameworks
 - **[GTK4](https://gtk.org/)** - Cross-platform toolkit for creating graphical user interfaces (LGPL License)
 - **[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)** - Widget library for GNOME applications with modern design (LGPL License)
-- **[PasGTK4](https://github.com/AnmiTaliDev/pasgtk4)** - Pascal library for GTK4 LibAdwaita with modern design (Open Source)
 - **[Qt Quick](https://doc.qt.io/qt-6/qtquick-index.html)** - Declarative UI framework for creating fluid user interfaces (GPL/LGPL License)
 - **[Slint](https://github.com/slint-ui/slint)** - Modern GUI toolkit for Rust, C++ and JavaScript with declarative approach (GPL/Commercial License)
 - **[Avalonia](https://github.com/AvaloniaUI/Avalonia)** - Cross-platform .NET UI framework for creating beautiful applications (MIT License)
