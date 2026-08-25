@@ -44,6 +44,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans)** - Global font family designed by Google for visual harmony across languages (Open Font License)
 - **[Fira Sans](https://mozilla.github.io/Fira/)** - Mozilla Firefox OS font (Open Font License)
 - **[Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)** - Adobe's first open source font (Open Font License)
+- **[Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)** - Retro 8-bit arcade bitmap font based on 1980s video games (Open Font License)
 
 ### Color Palettes
 
