@@ -38,6 +38,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
 - **[Geist](https://vercel.com/font)** - Font family crafted for modern interfaces and developers by Vercel (Open Font License)
 - **[IBM Plex](https://www.ibm.com/plex/)** - Corporate typeface family designed for IBM with distinct personality (Open Font License)
+- **[Poppins](https://fonts.google.com/specimen/Poppins)** - Geometric sans-serif typeface with clean and friendly aesthetics (Open Font License)
 - **[Roboto](https://fonts.google.com/specimen/Roboto)** - Android system font from Google (Apache License)
 - **[Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans)** - Global font family designed by Google for visual harmony across languages (Open Font License)
 - **[Fira Sans](https://mozilla.github.io/Fira/)** - Mozilla Firefox OS font (Open Font License)
