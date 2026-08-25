@@ -186,6 +186,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Magic Animations](https://minimamente.com/project/magic/)** - CSS3 animations with special effects (MIT License)
 
 #### JavaScript Animation Libraries
+- **[Lottie](https://airbnb.design/lottie/)** - Open source animation library that parses Adobe After Effects animations natively (MIT License)
 - **[Framer Motion](https://www.framer.com/motion/)** - Production-ready animation library for React (MIT License)
 - **[Popmotion](https://popmotion.io/)** - Simple animation and gesture library for JavaScript (MIT License)
 
