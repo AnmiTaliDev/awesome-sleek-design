@@ -26,13 +26,13 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 #### Font Libraries
 - **[Google Fonts](https://fonts.google.com/)** - Free web fonts optimized for the web (Open Font License)
-- **[Fontshare](https://www.fontshare.com/)** - Free fonts from Indian Type Foundry
-- **[Bunny Fonts](https://fonts.bunny.net/)** - GDPR-compliant alternative to Google Fonts
+- **[Fontshare](https://www.fontshare.com/)** - Free fonts from Indian Type Foundry (ITF Free Font License)
+- **[Bunny Fonts](https://fonts.bunny.net/)** - GDPR-compliant alternative to Google Fonts (Open Font License)
 
 #### Typographic Tools
-- **[Modular Scale](https://www.modularscale.com/)** - Calculate proportional typographic scales
-- **[Fontjoy](https://fontjoy.com/)** - Font pair generator with machine learning
-- **[Fontopia](https://taliildar.anmitali.kz/Fontopia)** - Font viewer for designers (Open Source)
+- **[Modular Scale](https://www.modularscale.com/)** - Calculate proportional typographic scales (MIT License)
+- **[Fontjoy](https://fontjoy.com/)** - Font pair generator with machine learning (MIT License)
+- **[Fontopia](https://taliildar.anmitali.kz/Fontopia)** - Font viewer for designers (GPL License)
 
 #### System Fonts
 - **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
@@ -71,9 +71,9 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Open Color](https://yeun.github.io/open-color/)** - Color scheme optimized for UI (MIT License)
 
 #### Color Tools
-- **[Contrast Ratio](https://contrast-ratio.com/)** - Check color contrast for accessibility
-- **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
-- **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
+- **[Contrast Ratio](https://contrast-ratio.com/)** - Check color contrast for accessibility (MIT License)
+- **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (MIT License)
+- **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations (MIT License)
 - **[Leonardo](https://leonardocolor.io/)** - Adaptive color system for creating accessible UI color palettes (Apache License)
 - **[FlexColorScheme](https://github.com/rydmike/flex_color_scheme)** - Highly customizable Flutter package for making beautiful Material 3 color schemes (BSD-3-Clause License)
 
@@ -116,13 +116,13 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 #### Enterprise Design Systems
 - **[Carbon Design System](https://carbondesignsystem.com/)** - IBM's open source design system for products and digital experiences (Apache License)
-- **[Atlassian Design System](https://atlassian.design/)** - Comprehensive system with detailed components and patterns
-- **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** - Enterprise-level design system from Salesforce
-- **[Shopify Polaris](https://polaris.shopify.com/)** - Shopify's design system for creating great commerce platforms
+- **[Atlassian Design System](https://atlassian.design/)** - Comprehensive design system with detailed components and patterns (Apache License)
+- **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** - Enterprise-level design system from Salesforce (BSD-3-Clause License)
+- **[Shopify Polaris](https://polaris.shopify.com/)** - Shopify's design system for creating great commerce platforms (MIT License)
 
 #### Startup & Product Design Systems
-- **[Ant Design](https://ant.design/)** - Enterprise-class design language and React components
-- **[GitHub Primer](https://primer.style/)** - GitHub's design system with CSS, React, and Figma components
+- **[Ant Design](https://ant.design/)** - Enterprise-class design language and React components (MIT License)
+- **[GitHub Primer](https://primer.style/)** - GitHub's design system with CSS, React, and Figma components (MIT License)
 
 #### UI Design Systems
 - **[Tamagui](https://tamagui.dev/)** - Universal UI system and styling engine for React Native and Web (MIT License)
@@ -168,22 +168,22 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 #### React Component Libraries
 - **[shadcn/ui](https://ui.shadcn.com/)** - Beautifully designed components built with Radix UI and Tailwind CSS (MIT License)
 - **[Magic UI](https://magicui.design/)** - Animated UI components built with React, Tailwind CSS, and Framer Motion (MIT License)
-- **[Material-UI (MUI)](https://mui.com/)** - React UI library implementing Google Material Design
-- **[React Bootstrap](https://react-bootstrap.github.io/)** - Bootstrap components for React
-- **[Semantic UI React](https://react.semantic-ui.com/)** - React integration for Semantic UI
-- **[Grommet](https://v2.grommet.io/)** - React-based framework with clean and pleasant design
+- **[Material-UI (MUI)](https://mui.com/)** - React UI library implementing Google Material Design (MIT License)
+- **[React Bootstrap](https://react-bootstrap.github.io/)** - Bootstrap components for React (MIT License)
+- **[Semantic UI React](https://react.semantic-ui.com/)** - React integration for Semantic UI (MIT License)
+- **[Grommet](https://v2.grommet.io/)** - React-based framework with clean and pleasant design (Apache License)
 
 #### Vue Component Libraries
-- **[Vuetify](https://vuetifyjs.com/)** - Material Design components for Vue.js
-- **[Element Plus](https://element-plus.org/)** - Vue 3 UI library for desktop
-- **[Naive UI](https://www.naiveui.com/)** - Vue 3 component library with TypeScript
+- **[Vuetify](https://vuetifyjs.com/)** - Material Design components for Vue.js (MIT License)
+- **[Element Plus](https://element-plus.org/)** - Vue 3 UI library for desktop (MIT License)
+- **[Naive UI](https://www.naiveui.com/)** - Vue 3 component library with TypeScript (MIT License)
 
 #### Headless & Unstyled Libraries
 - **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
-- **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue
-- **[Radix UI](https://www.radix-ui.com/)** - Low-level UI primitives with accessibility focus
-- **[React Aria](https://react-spectrum.adobe.com/react-aria/)** - React hooks library for accessible components by Adobe
-- **[Ariakit](https://ariakit.org/)** - Toolkit for building accessible web applications with React
+- **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue (MIT License)
+- **[Radix UI](https://www.radix-ui.com/)** - Low-level UI primitives with accessibility focus (MIT License)
+- **[React Aria](https://react-spectrum.adobe.com/react-aria/)** - React hooks library for accessible components by Adobe (Apache License)
+- **[Ariakit](https://ariakit.org/)** - Toolkit for building accessible web applications with React (MIT License)
 
 ### Animations
 
