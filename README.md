@@ -142,6 +142,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Component Libraries
 
 #### React Component Libraries
+- **[shadcn/ui](https://ui.shadcn.com/)** - Beautifully designed components built with Radix UI and Tailwind CSS (MIT License)
 - **[Material-UI (MUI)](https://mui.com/)** - React UI library implementing Google Material Design
 - **[React Bootstrap](https://react-bootstrap.github.io/)** - Bootstrap components for React
 - **[Semantic UI React](https://react.semantic-ui.com/)** - React integration for Semantic UI
