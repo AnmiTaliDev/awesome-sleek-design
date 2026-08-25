@@ -87,7 +87,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Quant-UX](https://www.quant-ux.com/)** - Open source prototyping and usability testing (GPL License)
 
 ### Open Source Prototyping
-- **[MockFlow](https://www.mockflow.com/)** - Wireframing and design tool (partially open source)
+- **[Excalidraw](https://excalidraw.com/)** - Virtual whiteboard for sketching hand-drawn like diagrams and wireframes (MIT License)
 
 ### Design Systems
 
