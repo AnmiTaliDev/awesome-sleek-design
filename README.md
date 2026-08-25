@@ -77,6 +77,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[FlexColorScheme](https://github.com/rydmike/flex_color_scheme)** - Highly customizable Flutter package for making beautiful Material 3 color schemes (BSD-3-Clause License)
 
 #### Outdated but Great
+- **[Material Theme Builder](https://material-foundation.github.io/material-theme-builder/)** - Visual tool to generate dynamic Material 3 color schemes (Apache License)
 - **[Palettify](https://github.com/mehdibha/palettify)** - Generate and preview themes for popular UI libraries (MIT License)
 
 ### Icons
