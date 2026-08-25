@@ -61,6 +61,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Color Palettes
 
 #### Palette Generators
+- **[tweakcn](https://tweakcn.com/)** - Theme customizer and visual palette generator for shadcn/ui (Apache License)
 - **[iWantHue](https://medialab.github.io/iwanthue/)** - Colors for data scientists and palette generator (Open Source)
 
 #### Ready-Made Palettes
