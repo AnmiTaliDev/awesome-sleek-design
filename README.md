@@ -154,6 +154,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Naive UI](https://www.naiveui.com/)** - Vue 3 component library with TypeScript
 
 #### Headless & Unstyled Libraries
+- **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
 - **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue
 - **[Radix UI](https://www.radix-ui.com/)** - Low-level UI primitives with accessibility focus
 - **[React Aria](https://react-spectrum.adobe.com/react-aria/)** - React hooks library for accessible components by Adobe
