@@ -178,7 +178,6 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Inspiration
 
 #### Design Galleries
-- **[Behance](https://www.behance.net/)** - Creative portfolio platform by Adobe
 - **[Awwwards](https://www.awwwards.com/)** - Awards for design, creativity and innovation
 - **[SiteInspire](https://www.siteinspire.com/)** - Web design inspiration gallery
 
