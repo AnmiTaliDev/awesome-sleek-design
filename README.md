@@ -57,6 +57,9 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
 - **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
 
+#### Outdated but Great
+- **[Palettify](https://github.com/mehdibha/palettify)** - Generate and preview themes for popular UI libraries (MIT License)
+
 ### Icons
 
 #### Open Source Icon Libraries
