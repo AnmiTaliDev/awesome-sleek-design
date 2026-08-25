@@ -35,6 +35,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Fontopia](https://taliildar.anmitali.kz/Fontopia)** - Font viewer for designers (Open Source)
 
 #### System Fonts
+- **[Geist](https://vercel.com/font)** - Font family crafted for modern interfaces and developers by Vercel (Open Font License)
 - **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
 - **[Roboto](https://fonts.google.com/specimen/Roboto)** - Android system font from Google (Apache License)
 - **[Fira Sans](https://mozilla.github.io/Fira/)** - Mozilla Firefox OS font (Open Font License)
