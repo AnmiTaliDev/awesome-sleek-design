@@ -74,6 +74,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
 - **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
 - **[Leonardo](https://leonardocolor.io/)** - Adaptive color system for creating accessible UI color palettes (Apache License)
+- **[FlexColorScheme](https://github.com/rydmike/flex_color_scheme)** - Highly customizable Flutter package for making beautiful Material 3 color schemes (BSD-3-Clause License)
 
 #### Outdated but Great
 - **[Palettify](https://github.com/mehdibha/palettify)** - Generate and preview themes for popular UI libraries (MIT License)
