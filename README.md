@@ -37,6 +37,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 #### System Fonts
 - **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
 - **[Geist](https://vercel.com/font)** - Font family crafted for modern interfaces and developers by Vercel (Open Font License)
+- **[Manrope](https://gent.media/manrope)** - Modern open-source geometric sans-serif font family (Open Font License)
 - **[Mona Sans](https://github.com/github/mona-sans)** - Modern variable font designed by GitHub with industrial and flexible aesthetics (Open Font License)
 - **[Hubot Sans](https://github.com/github/hubot-sans)** - Robotic and geometric companion variable font to Mona Sans by GitHub (Open Font License)
 - **[Space Grotesk](https://floriankarsten.github.io/space-grotesk/)** - Proportional sans-serif typeface with quirky geometric and tech details (Open Font License)
