@@ -154,6 +154,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Nuxt.js](https://nuxt.com/)** - Intuitive Vue framework (MIT License)
 
 #### Universal Frameworks
+- **[Flutter](https://flutter.dev/)** - Multi-platform UI framework by Google for natively compiled applications (BSD-3-Clause License)
 - **[Ionic Framework](https://ionicframework.com/)** - Cross-platform UI toolkit for building mobile and desktop apps with web technologies (MIT License)
 - **[Svelte/SvelteKit](https://kit.svelte.dev/)** - Cybernetically enhanced web applications (MIT License)
 - **[Astro](https://astro.build/)** - Static site generator for the modern web (MIT License)
