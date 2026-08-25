@@ -139,6 +139,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Windi CSS](https://windicss.org/)** - Next generation utility-first CSS framework (MIT License)
 
 #### Component-Based Frameworks
+- **[daisyUI](https://daisyui.com/)** - Component library for Tailwind CSS with clean semantic class names (MIT License)
 - **[Bootstrap 5](https://getbootstrap.com/)** - World's most popular framework with modern utilities (MIT License)
 - **[Foundation](https://get.foundation/)** - Advanced responsive front-end framework (MIT License)
 
@@ -166,6 +167,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 #### React Component Libraries
 - **[shadcn/ui](https://ui.shadcn.com/)** - Beautifully designed components built with Radix UI and Tailwind CSS (MIT License)
+- **[Magic UI](https://magicui.design/)** - Animated UI components built with React, Tailwind CSS, and Framer Motion (MIT License)
 - **[Material-UI (MUI)](https://mui.com/)** - React UI library implementing Google Material Design
 - **[React Bootstrap](https://react-bootstrap.github.io/)** - Bootstrap components for React
 - **[Semantic UI React](https://react.semantic-ui.com/)** - React integration for Semantic UI
