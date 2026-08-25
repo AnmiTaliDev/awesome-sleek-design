@@ -74,6 +74,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Devicons](https://devicons.github.io/devicon/)** - Programming language and tool icons (MIT License)
 - **[Remix Icon](https://remixicon.com/)** - Neutral icon system for designers and developers (Apache License)
 - **[Iconify](https://iconify.design/)** - Universal framework-agnostic icon library (MIT License)
+- **[Simple Icons](https://simpleicons.org/)** - SVG icons for popular brands and technologies (CC0 License)
 
 #### Community Icons
 - **[Octicons](https://primer.style/octicons/)** - GitHub Primer icons (MIT License)
