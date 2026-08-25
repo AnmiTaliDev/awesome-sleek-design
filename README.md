@@ -43,8 +43,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Color Palettes
 
 #### Open Source Palette Generators
-- **[Coolors](https://coolors.co/)** - Fast color scheme generator (partially open source)
-- **[Colormind](http://colormind.io/)** - AI-powered color palette generator
+- **[iWantHue](https://medialab.github.io/iwanthue/)** - Colors for data scientists and palette generator (Open Source)
 
 #### Open Source Ready-Made Palettes
 - **[Flat UI Colors](https://flatuicolors.com/)** - Beautiful flat colors for your project (MIT License)
@@ -56,6 +55,10 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Contrast Ratio](https://contrast-ratio.com/)** - Check color contrast for accessibility
 - **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
 - **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
+- **[Leonardo](https://leonardocolor.io/)** - Adaptive color system for creating accessible UI color palettes (Apache License)
+
+#### Outdated but Great
+- **[Palettify](https://github.com/mehdibha/palettify)** - Generate and preview themes for popular UI libraries (MIT License)
 
 ### Icons
 
@@ -84,7 +87,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Quant-UX](https://www.quant-ux.com/)** - Open source prototyping and usability testing (GPL License)
 
 ### Open Source Prototyping
-- **[MockFlow](https://www.mockflow.com/)** - Wireframing and design tool (partially open source)
+- **[Excalidraw](https://excalidraw.com/)** - Virtual whiteboard for sketching hand-drawn like diagrams and wireframes (MIT License)
 
 ### Design Systems
 
@@ -174,14 +177,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 ### Inspiration
 
-#### Design Galleries
-- **[Dribbble](https://dribbble.com/)** - Design community showcasing creative work
-- **[Behance](https://www.behance.net/)** - Creative portfolio platform by Adobe
-- **[Awwwards](https://www.awwwards.com/)** - Awards for design, creativity and innovation
-- **[SiteInspire](https://www.siteinspire.com/)** - Web design inspiration gallery
-
 #### UI/UX Inspiration
-- **[Mobbin](https://mobbin.design/)** - Mobile app design patterns and inspiration
 - **[Page Flows](https://pageflows.com/)** - User flow inspiration and best practices
 
 ### Resources

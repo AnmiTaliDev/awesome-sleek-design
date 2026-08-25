@@ -49,9 +49,9 @@ Resources should demonstrate:
 - **Functional**: Form follows function philosophy
 - **Polished**: Attention to detail in typography, spacing, and interactions
 
-## Open Source Preference
+## Open Source Requirement
 
-While we include some proprietary tools (especially HIG and established design systems), we have a strong preference for open source resources. When suggesting proprietary alternatives, please ensure they offer significant value that isn't available in open source options.
+Only open source software and resources are allowed. Proprietary and closed-source software or tools are strictly prohibited. All submitted projects must be licensed under an open source license.
 
 ## Language
 
@@ -60,6 +60,7 @@ All resources should have English descriptions, even if the resource itself is i
 ## Removal
 
 Resources may be removed if they:
+- Are proprietary or closed-source
 - Become inactive or unmaintained
 - No longer meet quality standards
 - Develop security issues
