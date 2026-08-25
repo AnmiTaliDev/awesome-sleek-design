@@ -96,6 +96,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Design Systems
 
 #### Enterprise Design Systems
+- **[Carbon Design System](https://carbondesignsystem.com/)** - IBM's open source design system for products and digital experiences (Apache License)
 - **[Atlassian Design System](https://atlassian.design/)** - Comprehensive system with detailed components and patterns
 - **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** - Enterprise-level design system from Salesforce
 - **[Shopify Polaris](https://polaris.shopify.com/)** - Shopify's design system for creating great commerce platforms
