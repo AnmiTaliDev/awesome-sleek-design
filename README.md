@@ -68,6 +68,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Feather Icons](https://feathericons.com/)** - Simply beautiful open source icons (MIT License)
 - **[Tabler Icons](https://tabler-icons.io/)** - 4000+ free SVG icons (MIT License)
 - **[Phosphor Icons](https://phosphoricons.com/)** - Flexible icon family with multiple weights (MIT License)
+- **[Solar Icons](https://github.com/480-Design/Solar-Icon-Set)** - Large set of modern icons in 6 distinct styles (CC BY 4.0 License)
 - **[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)** - Collection of familiar, friendly and modern icons from Microsoft (MIT License)
 
 #### Specialized Open Source Icons
