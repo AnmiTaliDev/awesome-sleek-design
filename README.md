@@ -122,6 +122,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[GitHub Primer](https://primer.style/)** - GitHub's design system with CSS, React, and Figma components
 
 #### UI Design Systems
+- **[Tamagui](https://tamagui.dev/)** - Universal UI system and styling engine for React Native and Web (MIT License)
 - **[Chakra UI](https://chakra-ui.com/)** - Modular and accessible component library for React (MIT License)
 - **[Mantine](https://mantine.dev/)** - Full-featured React components library with dark theme support (MIT License)
 - **[HeroUI](https://heroui.com/)** - Beautiful, fast and modern React UI library (MIT License)
