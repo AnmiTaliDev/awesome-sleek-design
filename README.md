@@ -178,7 +178,6 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Inspiration
 
 #### UI/UX Inspiration
-- **[Mobbin](https://mobbin.design/)** - Mobile app design patterns and inspiration
 - **[Page Flows](https://pageflows.com/)** - User flow inspiration and best practices
 
 ### Resources
