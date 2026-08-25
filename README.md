@@ -56,6 +56,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Contrast Ratio](https://contrast-ratio.com/)** - Check color contrast for accessibility
 - **[Who Can Use](https://whocanuse.com/)** - Color accessibility simulator (open source)
 - **[Accessible Colors](https://accessible-colors.com/)** - Generate accessible color combinations
+- **[Leonardo](https://leonardocolor.io/)** - Adaptive color system for creating accessible UI color palettes (Apache License)
 
 #### Outdated but Great
 - **[Palettify](https://github.com/mehdibha/palettify)** - Generate and preview themes for popular UI libraries (MIT License)
