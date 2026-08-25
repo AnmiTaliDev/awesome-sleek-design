@@ -52,6 +52,12 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)** - Adobe's first open source font (Open Font License)
 - **[Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)** - Retro 8-bit arcade bitmap font based on 1980s video games (Open Font License)
 
+#### Monospace Fonts
+- **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
+- **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
+- **[Intel One Mono](https://github.com/intel/intel-one-mono)** - Expressive monospaced font designed for maximum legibility and reduced fatigue (Open Font License)
+- **[Space Mono](https://fonts.google.com/specimen/Space+Mono)** - Original fixed-width font family with retro-futuristic characteristics (Open Font License)
+
 ### Color Palettes
 
 #### Palette Generators
