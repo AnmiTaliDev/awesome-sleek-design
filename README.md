@@ -38,6 +38,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Inter](https://rsms.me/inter/)** - Highly readable font designed for computer screens (Open Font License)
 - **[Geist](https://vercel.com/font)** - Font family crafted for modern interfaces and developers by Vercel (Open Font License)
 - **[Mona Sans](https://github.com/github/mona-sans)** - Modern variable font designed by GitHub with industrial and flexible aesthetics (Open Font License)
+- **[Hubot Sans](https://github.com/github/hubot-sans)** - Robotic and geometric companion variable font to Mona Sans by GitHub (Open Font License)
 - **[IBM Plex](https://www.ibm.com/plex/)** - Corporate typeface family designed for IBM with distinct personality (Open Font License)
 - **[Poppins](https://fonts.google.com/specimen/Poppins)** - Geometric sans-serif typeface with clean and friendly aesthetics (Open Font License)
 - **[Roboto](https://fonts.google.com/specimen/Roboto)** - Android system font from Google (Apache License)
