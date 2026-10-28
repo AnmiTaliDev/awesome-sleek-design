@@ -244,6 +244,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Moon Design](https://pub.dev/packages/moon_design)** - Flutter implementation of Moon Design System for mobile and web (MIT License)
 
+- **[fluent_ui](https://github.com/bdlukaa/fluent_ui)** - Fluent Design System implementation for Flutter applications (BSD-3-Clause License)
+
 #### Headless & Unstyled Libraries
 - **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
 - **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue (MIT License)
