@@ -94,6 +94,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Pirata One](https://fonts.google.com/specimen/Pirata+One)** - Gothic blackletter-inspired display typeface designed for thematic titles and labels (Open Font License)
 
+- **[Epilogue](https://fonts.google.com/specimen/Epilogue)** - Clean variable sans-serif typeface designed for UI typography and digital reading (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
