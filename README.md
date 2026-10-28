@@ -313,6 +313,9 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Slint](https://github.com/slint-ui/slint)** - Modern GUI toolkit for Rust, C++ and JavaScript with declarative approach (GPL/Commercial License)
 - **[Avalonia](https://github.com/AvaloniaUI/Avalonia)** - Cross-platform .NET UI framework for creating beautiful applications (MIT License)
 
+### Qt & QML UI Libraries
+- **[FluentUI for QML](https://github.com/zhuzichu520/FluentUI)** - Fluent Design component library for Qt Quick and QML with PySide6 support (MIT License)
+
 ### Good Applications
 - **[Blender](https://www.blender.org/)** - 3D creation, animation, rendering and post-production (GPL License)
 - **[G4Music](https://gitlab.gnome.org/neithern/g4music)** - Elegant music player with modern GTK4/LibAdwaita design (GPL License)
