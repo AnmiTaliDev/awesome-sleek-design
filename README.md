@@ -76,6 +76,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Oi](https://fonts.google.com/specimen/Oi)** - Ultra-fat slab-serif display typeface inspired by 19th-century grotesque wood types (Open Font License)
 
+- **[Sora](https://fonts.google.com/specimen/Sora)** - Low-contrast geometric sans-serif typeface designed for user interfaces and app screens (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
