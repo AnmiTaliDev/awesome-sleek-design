@@ -180,6 +180,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Ant Design](https://ant.design/)** - Enterprise-class design language and React components (MIT License)
 - **[GitHub Primer](https://primer.style/)** - GitHub's design system with CSS, React, and Figma components (MIT License)
 - **[GitLab Pajamas](https://design.gitlab.com/)** - GitLab's open-source design system providing guidelines and UI components (MIT License)
+- **[Decathlon Vitamin](https://github.com/Decathlon/vitamin-web)** - Multi-platform digital design system and component libraries for Decathlon (Apache License)
 
 #### UI Design Systems
 - **[Tamagui](https://tamagui.dev/)** - Universal UI system and styling engine for React Native and Web (MIT License)
