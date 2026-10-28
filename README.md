@@ -64,6 +64,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex)** - Multi-axis variable geometric sans-serif typeface designed for responsive UI systems (Open Font License)
 - **[Unbounded](https://fonts.google.com/specimen/Unbounded)** - Wide geometric variable sans-serif typeface designed for bold display and modern interfaces (Open Font License)
 - **[Audiowide](https://fonts.google.com/specimen/Audiowide)** - Technological sans-serif display typeface with soft-cornered tubular letterforms (Open Font License)
+- **[Silkscreen](https://fonts.google.com/specimen/Silkscreen)** - Retro pixel display typeface designed for legibility at small sizes and web graphics (Open Font License)
 
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
