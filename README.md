@@ -74,6 +74,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Fraunces](https://fonts.google.com/specimen/Fraunces)** - Wonky optical variable serif typeface inspired by early 20th-century typography (Open Font License)
 
+- **[Oi](https://fonts.google.com/specimen/Oi)** - Ultra-fat slab-serif display typeface inspired by 19th-century grotesque wood types (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
