@@ -110,6 +110,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)** - Monospaced typeface derived from Helvetica with 1960s architectural lettering traits (Open Font License)
 
+- **[Azeret Mono](https://fonts.google.com/specimen/Azeret+Mono)** - Variable monospaced typeface designed for code editors and technical interfaces (Open Font License)
+
 ### Color Palettes
 
 #### Palette Generators
