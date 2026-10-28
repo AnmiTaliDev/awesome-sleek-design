@@ -152,6 +152,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Remix Icon](https://remixicon.com/)** - Neutral icon system for designers and developers (Apache License)
 - **[Iconify](https://iconify.design/)** - Universal framework-agnostic icon library (MIT License)
 - **[Simple Icons](https://simpleicons.org/)** - SVG icons for popular brands and technologies (CC0 License)
+- **[Pixelarticons](https://pixelarticons.com/)** - Open-source pixel-art icon library designed on a 24x24 grid (MIT License)
 
 #### Community Icons
 - **[Octicons](https://primer.style/octicons/)** - GitHub Primer icons (MIT License)
