@@ -316,6 +316,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 ### Qt & QML UI Libraries
 - **[FluentUI for QML](https://github.com/zhuzichu520/FluentUI)** - Fluent Design component library for Qt Quick and QML with PySide6 support (MIT License)
 
+- **[Logos Design System](https://github.com/logos-co/logos-design-system)** - Qt and QML design system with theme tokens and styled controls (Apache-2.0/MIT License)
+
 ### Good Applications
 - **[Blender](https://www.blender.org/)** - 3D creation, animation, rendering and post-production (GPL License)
 - **[G4Music](https://gitlab.gnome.org/neithern/g4music)** - Elegant music player with modern GTK4/LibAdwaita design (GPL License)
