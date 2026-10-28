@@ -108,6 +108,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Intel One Mono](https://github.com/intel/intel-one-mono)** - Expressive monospaced font designed for maximum legibility and reduced fatigue (Open Font License)
 - **[Space Mono](https://fonts.google.com/specimen/Space+Mono)** - Original fixed-width font family with retro-futuristic characteristics (Open Font License)
 
+- **[Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)** - Monospaced typeface derived from Helvetica with 1960s architectural lettering traits (Open Font License)
+
 ### Color Palettes
 
 #### Palette Generators
