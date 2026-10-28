@@ -96,6 +96,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Epilogue](https://fonts.google.com/specimen/Epilogue)** - Clean variable sans-serif typeface designed for UI typography and digital reading (Open Font License)
 
+- **[Tenor Sans](https://fonts.google.com/specimen/Tenor+Sans)** - Flared sans-serif typeface with humanist proportions designed for titles and body text (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
