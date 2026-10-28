@@ -240,6 +240,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 #### Flutter Component Libraries
 - **[Forui](https://forui.dev/)** - Minimalist UI library for Flutter inspired by shadcn/ui (MIT License)
 
+- **[shadcn_ui](https://pub.dev/packages/shadcn_ui)** - Flutter port of shadcn/ui components with customizable styles (MIT License)
+
 #### Headless & Unstyled Libraries
 - **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
 - **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue (MIT License)
