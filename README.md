@@ -56,6 +56,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Google Sans](https://fonts.google.com/specimen/Google+Sans)** - Geometric sans-serif brand typeface optimized for digital interfaces and product UI (Open Font License)
 - **[Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)** - Balanced geometric sans-serif typeface with straight terminals for UI and editorial design (Open Font License)
 - **[Archivo Black](https://fonts.google.com/specimen/Archivo+Black)** - Heavy grotesque sans-serif typeface designed for high-impact headlines and display use (Open Font License)
+- **[Jost](https://fonts.google.com/specimen/Jost)** - Geometric sans-serif variable typeface inspired by 1920s German designs and Futura (Open Font License)
 
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
