@@ -237,6 +237,9 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Element Plus](https://element-plus.org/)** - Vue 3 UI library for desktop (MIT License)
 - **[Naive UI](https://www.naiveui.com/)** - Vue 3 component library with TypeScript (MIT License)
 
+#### Flutter Component Libraries
+- **[Forui](https://forui.dev/)** - Minimalist UI library for Flutter inspired by shadcn/ui (MIT License)
+
 #### Headless & Unstyled Libraries
 - **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
 - **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue (MIT License)
