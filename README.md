@@ -52,6 +52,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)** - Adobe's first open source font (Open Font License)
 - **[Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)** - Retro 8-bit arcade bitmap font based on 1980s video games (Open Font License)
 - **[ABeeZee](https://fonts.google.com/specimen/ABeeZee)** - Sans-serif typeface designed for children learning to read and write (Open Font License)
+- **[Xmind](https://fonts.google.com/specimen/Xmind)** - Geometric and humanist sans-serif typeface designed by Xmind (Open Font License)
 
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
