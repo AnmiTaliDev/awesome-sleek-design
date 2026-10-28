@@ -145,6 +145,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Phosphor Icons](https://phosphoricons.com/)** - Flexible icon family with multiple weights (MIT License)
 - **[Solar Icons](https://github.com/480-Design/Solar-Icon-Set)** - Large set of modern icons in 6 distinct styles (CC BY 4.0 License)
 - **[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)** - Collection of familiar, friendly and modern icons from Microsoft (MIT License)
+- **[Boxicons](https://boxicons.com/)** - Vector icons designed for frontend web and interface development (CC BY 4.0 License)
 
 #### Specialized Icons
 - **[Devicons](https://devicons.github.io/devicon/)** - Programming language and tool icons (MIT License)
