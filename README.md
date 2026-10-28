@@ -68,6 +68,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)** - Geometric sans-serif typeface designed for modern clean interfaces and brand identities (Open Font License)
 
+- **[Syne](https://fonts.google.com/specimen/Syne)** - Exploration-driven geometric sans-serif typeface designed for art center identities and display use (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
