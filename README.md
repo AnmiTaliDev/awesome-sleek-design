@@ -82,6 +82,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Besley](https://fonts.google.com/specimen/Besley)** - Modernized Clarendon-style antique slab-serif designed for editorial text and headings (Open Font License)
 
+- **[Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda)** - High-contrast Didone serif variable typeface designed for digital editorial and fashion headlines (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
