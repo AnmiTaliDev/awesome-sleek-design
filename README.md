@@ -88,6 +88,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Michroma](https://fonts.google.com/specimen/Michroma)** - Squared geometric sans-serif display typeface inspired by 1960s sci-fi film typography (Open Font License)
 
+- **[Oxanium](https://fonts.google.com/specimen/Oxanium)** - Futuristic square-jawed geometric sans-serif typeface designed for sci-fi and tech UI (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
