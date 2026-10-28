@@ -59,6 +59,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[Jost](https://fonts.google.com/specimen/Jost)** - Geometric sans-serif variable typeface inspired by 1920s German designs and Futura (Open Font License)
 - **[Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)** - Geometric slab-serif typeface designed by Christian Robertson as companion to Roboto (Apache License)
 - **[Changa One](https://fonts.google.com/specimen/Changa+One)** - Heavy display sans-serif typeface with short ascenders designed for tight titles and headlines (Open Font License)
+- **[Instrument Sans](https://fonts.google.com/specimen/Instrument+Sans)** - Neo-grotesque variable sans-serif typeface designed for digital products and brand interfaces (Open Font License)
 
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
