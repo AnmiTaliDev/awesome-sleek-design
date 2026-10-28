@@ -86,6 +86,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Bungee Shade](https://fonts.google.com/specimen/Bungee+Shade)** - Chromatic display typeface celebrating urban signage with built-in drop shadows (Open Font License)
 
+- **[Michroma](https://fonts.google.com/specimen/Michroma)** - Squared geometric sans-serif display typeface inspired by 1960s sci-fi film typography (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
