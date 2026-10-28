@@ -318,6 +318,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Logos Design System](https://github.com/logos-co/logos-design-system)** - Qt and QML design system with theme tokens and styled controls (Apache-2.0/MIT License)
 
+- **[Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI)** - Fluent Design UI component library for Qt Quick and PySide6 (MIT License)
+
 ### Good Applications
 - **[Blender](https://www.blender.org/)** - 3D creation, animation, rendering and post-production (GPL License)
 - **[G4Music](https://gitlab.gnome.org/neithern/g4music)** - Elegant music player with modern GTK4/LibAdwaita design (GPL License)
