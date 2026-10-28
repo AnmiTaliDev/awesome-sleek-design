@@ -54,6 +54,7 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 - **[ABeeZee](https://fonts.google.com/specimen/ABeeZee)** - Sans-serif typeface designed for children learning to read and write (Open Font License)
 - **[Xmind](https://fonts.google.com/specimen/Xmind)** - Geometric and humanist sans-serif typeface designed by Xmind (Open Font License)
 - **[Google Sans](https://fonts.google.com/specimen/Google+Sans)** - Geometric sans-serif brand typeface optimized for digital interfaces and product UI (Open Font License)
+- **[Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)** - Balanced geometric sans-serif typeface with straight terminals for UI and editorial design (Open Font License)
 
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
