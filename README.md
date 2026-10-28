@@ -100,6 +100,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Zen Kaku Gothic New](https://fonts.google.com/specimen/Zen+Kaku+Gothic+New)** - Classical Japanese and Latin sans-serif typeface designed for clean screen legibility (Open Font License)
 
+- **[Krona One](https://fonts.google.com/specimen/Krona+One)** - Low-contrast semi-extended sans-serif typeface inspired by early 20th-century Swedish poster design (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
