@@ -78,6 +78,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[Sora](https://fonts.google.com/specimen/Sora)** - Low-contrast geometric sans-serif typeface designed for user interfaces and app screens (Open Font License)
 
+- **[Castoro](https://fonts.google.com/specimen/Castoro)** - Scholarly serif typeface designed by Tiro Typeworks for academic and publication publishing (Open Font License)
+
 #### Monospace Fonts
 - **[JetBrains Mono](https://www.jetbrains.com/lp/mono/)** - Free and open-source typeface crafted for developers (Open Font License)
 - **[Fira Code](https://github.com/tonsky/FiraCode)** - Free monospaced font with programming ligatures for readability (Open Font License)
