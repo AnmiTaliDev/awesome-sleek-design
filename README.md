@@ -242,6 +242,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[shadcn_ui](https://pub.dev/packages/shadcn_ui)** - Flutter port of shadcn/ui components with customizable styles (MIT License)
 
+- **[Moon Design](https://pub.dev/packages/moon_design)** - Flutter implementation of Moon Design System for mobile and web (MIT License)
+
 #### Headless & Unstyled Libraries
 - **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
 - **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue (MIT License)
