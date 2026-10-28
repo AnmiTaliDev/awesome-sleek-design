@@ -246,6 +246,8 @@ A comprehensive collection of Human Interface Guidelines, Design Systems, framew
 
 - **[fluent_ui](https://github.com/bdlukaa/fluent_ui)** - Fluent Design System implementation for Flutter applications (BSD-3-Clause License)
 
+- **[Yaru](https://pub.dev/packages/yaru)** - Ubuntu desktop design system and theme suite for Flutter (MPL-2.0 License)
+
 #### Headless & Unstyled Libraries
 - **[Base UI](https://base-ui.com/)** - Unstyled UI component library for React by MUI (MIT License)
 - **[Headless UI](https://headlessui.com/)** - Unstyled, accessible UI components for React and Vue (MIT License)
